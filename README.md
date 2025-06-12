@@ -1,21 +1,25 @@
-# All of My Hackathon Projects
+# My Hackathon Projects
 
-### AI ISO Compliance Auditor
+## AI ISO Compliance Auditor (Nov 2024)
+#### built for the Human in the Loop Hackathon, hosted by AI Tinkerers San Francisco
+
 [Go to repo](https://github.com/GomezDerek/ai-hitl-iso-compliance)
 
 [Live link](ai-hitl-iso-compliance.vercel.app)
 
-### AI Nonprofit Consultant
+## AI Nonprofit Consultant (Oct 2024)
+#### built for the AI Hackathon for Good, hosted by TEDAI San Francisco
+
 [Go to repo](https://github.com/GomezDerek/tedai-llm-gen)
 
 [Live link](https://gome510-tedxsdg-frontend.vercel.app/)
 
-### AI Sales Coach
-[Go to repo]()
+## AI Sales Transcript Analyzer (Aug 2024)
+#### built for a hackathon hosted by Headstarter
 
 [Live link](https://hiring-hackathon-team.vercel.app/)
 
-### Web Scraper
-[Go to repo](https://github.com/GomezDerek/web-scraper)
+## Web Scraper (Aug 2024)
+#### built for a hackathon hosted by Headstarter
 
-[Live link]()
+[Go to repo](https://github.com/GomezDerek/web-scraper)
