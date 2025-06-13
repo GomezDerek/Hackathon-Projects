@@ -5,7 +5,7 @@
 
 [Go to repo](https://github.com/GomezDerek/ai-hitl-iso-compliance)
 
-[Live link](ai-hitl-iso-compliance.vercel.app)
+[Live link](https://ai-hitl-iso-compliance.vercel.app/)
 
 ## AI Nonprofit Consultant (Oct 2024)
 #### built for the AI Hackathon for Good, hosted by TEDAI San Francisco
