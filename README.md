@@ -12,10 +12,14 @@
 
 [Go to repo](https://github.com/GomezDerek/tedai-llm-gen)
 
+[Go to organization repos](https://github.com/orgs/TEDxSDG/repositories)
+
 [Live link](https://gome510-tedxsdg-frontend.vercel.app/)
 
 ## AI Sales Transcript Analyzer (Aug 2024)
 #### built for a hackathon hosted by Headstarter
+
+[Go to repo](https://github.com/hiring-hackathon/team)
 
 [Live link](https://hiring-hackathon-team.vercel.app/)
 
