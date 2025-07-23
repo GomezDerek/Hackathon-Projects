@@ -12,7 +12,7 @@
 
 [Go to repo](https://github.com/GomezDerek/tedai-llm-gen)
 
-[Related repos](https://github.com/orgs/TEDxSDG/repositories)
+[Go to organization repos](https://github.com/orgs/TEDxSDG/repositories)
 
 [Live link](https://gome510-tedxsdg-frontend.vercel.app/)
 
