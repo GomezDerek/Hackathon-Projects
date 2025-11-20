@@ -1,9 +1,12 @@
 # My Hackathon Projects
 
 ## AI Innocence Detector (Nov 2025)
-### built for the Hack for Social Impact
+#### built for the Hack for Social Impact
+
 [Go to repo](https://github.com/hack-for-social-impact-2025/justice-ai)
+
 [Go to devpost](https://devpost.com/software/justice-ai-w0g398)
+
 [Live Link](https://justice-ai-h4si.vercel.app/)
 
 ## AI ISO Compliance Auditor (Nov 2024)
